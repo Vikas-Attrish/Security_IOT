@@ -139,5 +139,5 @@ This project is licensed under the **MIT License**. For more details, check the 
 ## 📧 Contact
 For any questions, feedback, or suggestions, open an issue on GitHub or reach out via:
 - GitHub Issues: [Security in IoT](https://github.com/Vikas-Attrish/Security_IOT/issues)
-- Email: Your contact information (optional)
+- Email: attrishvikas26@gmail.com
 
